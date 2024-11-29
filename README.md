@@ -6,7 +6,7 @@ LilithAwakens.com multi-feature AI dataset source code repository
     <img src="https://github.com/user-attachments/assets/352293c9-dfb0-4002-be6d-63fbbad7e7b9" alt="LilithAwakens">
     <br>
     <a href="https://LilithAwakens.com/"><b>🌐 Web</b></a> | 
-    <a href="https://x.com/LilithAwakens"><b>🐦 Twitter</b></a>
+    <a href="https://x.com/LilithAwakensAI"><b>🐦 Twitter</b></a>
 </div>
 
 ---
