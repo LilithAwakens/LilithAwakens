@@ -65,3 +65,9 @@ git clone https://github.com/your-repo-name/LilithAwakens
 cd LilithAwakens
 
 # LilithAwakens.com
+
+██      ██ ██      ██ ████████ ██   ██ 
+██      ██ ██      ██    ██    ██   ██ 
+██      ██ ██      ██    ██    ███████ 
+██      ██ ██      ██    ██    ██   ██ 
+███████ ██ ███████ ██    ██    ██   ██
